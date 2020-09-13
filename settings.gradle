@@ -22,3 +22,5 @@ include ':extensions:aws-ai'
 include ':extensions:hadoop'
 include ':extensions:fasttext'
 include ':extensions:sentencepiece'
+include 'Tensorboard'
+
